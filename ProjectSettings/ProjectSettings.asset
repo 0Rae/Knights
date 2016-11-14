@@ -506,7 +506,7 @@ PlayerSettings:
   XboxOne::VR::enabledDevices: []
   iOS::VR::enabledDevices: []
   tvOS::VR::enabledDevices: []
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: fda1055d-4ee7-4eb8-bc02-071947fde539
+  projectName: Knights (1)
+  organizationId: scolpyj
   cloudEnabled: 0
